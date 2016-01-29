@@ -1,0 +1,6 @@
+notifications:
+  email:
+    recipients:
+      - mike@berkman.co
+    on_success: [never] # default: change
+    on_failure: [never] # default: always
